@@ -1,1 +1,13 @@
-[]
+[[
+  {
+    "title": "Article 1",
+    "image": "https://example.com/image1.jpg",
+    "content": "This is the content for Article 1. It has multiple paragraphs."
+  },
+  {
+    "title": "Article 2",
+    "image": "https://example.com/image2.jpg",
+    "content": "This is the content for Article 2. It also contains more details."
+  }
+]
+]
