@@ -1,12 +1,8 @@
 [
-    {
-        "title": "My First Article",
-        "content": "This is the content of my first article.",
-        "image": "https://example.com/image1.jpg"
-    },
-    {
-        "title": "My Second Article",
-        "content": "This is the content of my second article.",
-        "image": "https://example.com/image2.jpg"
-    }
+{
+  "image_url": "https://via.placeholder.com/150",
+  "title": "Sample Image Title",
+  "content": "This is some sample content for the image."
+}
+
 ]
