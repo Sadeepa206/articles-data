@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Article Title",
+    "image": "image_url",
+    "content": "Article content..."
+  },
+  ...
+]
