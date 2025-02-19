@@ -1,8 +1,9 @@
-[
-  {
-    "id": 1,
-    "title": "Article Title",
-    "image": "image_url",
-    "content": "Article content..."
-  },
-]
+{
+  "articles": [
+    {
+      "image": "URL_of_the_image",
+      "title": "Title_of_the_Article",
+      "content": "Full_text_of_the_article"
+    }
+  ]
+}
