@@ -1,7 +1,12 @@
 [
-{
-    "title": "pcya",
-    "image": "https://i.ibb.co/MkBMYkQB/473424403-122141701736449952-7623997161313659226-n.jpg",
-    "content": "s"
-}
+    {
+        "title": "My First Article",
+        "content": "This is the content of my first article.",
+        "image": "https://example.com/image1.jpg"
+    },
+    {
+        "title": "My Second Article",
+        "content": "This is the content of my second article.",
+        "image": "https://example.com/image2.jpg"
+    }
 ]
