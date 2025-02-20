@@ -1,18 +1,1 @@
-{
-  "users": [
-    {
-      "username": "sadeepa",
-      "email": "hmwchamudith@gmail.com",
-      "phone": "0740952096",
-      "password": "dd794249a4eff8d303d216a1f5ab09d05e421fa20ac39dba3069205004fd3bac",
-      "createdAt": "2025-02-20T05:46:56.257Z"
-    },
-    {
-      "username": "sadeepa1",
-      "email": "hmwchamud1ith@gmail.com",
-      "phone": "0740952091",
-      "password": "dd794249a4eff8d303d216a1f5ab09d05e421fa20ac39dba3069205004fd3bac",
-      "createdAt": "2025-02-20T06:00:44.274Z"
-    }
-  ]
-}
+[]
