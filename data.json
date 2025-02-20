@@ -1,1 +1,61 @@
-[]
+{
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "ජීවිතේ හැමදාම සතුටින් ඉන්න පුලුවන් දෙයක් නෙමෙයි. නමුත් හැම දුකක්ම අපිට මොකක් හරි හොද දෙයක් කියල දෙනවා.",
+      "author": "Sadeepa Lakshan",
+      "date": "2024-02-20",
+      "category": "Motivate",
+      "likes": 0,
+      "totalUsers": 2854
+    },
+    {
+      "id": 2,
+      "text": "සමහර වෙලාවට අපි හිතන දේවල් වෙන්නෙ නැති වෙන්න පුලුවන්. ඒත් ඒක අපේ වැරැද්දක් නෙමෙයි.",
+      "author": "Sadeepa Lakshan",
+      "date": "2024-02-20",
+      "category": "Sad",
+      "likes": 5,
+      "totalUsers": 2960
+    },
+    {
+      "id": 3,
+      "text": "Technology has become an integral part of our daily lives, transforming how we work, communicate, and live.",
+      "author": "Tech Writer",
+      "date": "2024-02-20",
+      "category": "Tech",
+      "likes": 3,
+      "totalUsers": 1500
+    },
+    {
+      "id": 4,
+      "text": "මේ ලෝකෙ තියෙන හොදම දේ තමයි අපි කාටත් එක වගේ අවස්ථාවක් තියෙන එක. ඒක හරියට පාවිච්චි කරන එක අපේ අතේ.",
+      "author": "Sadeepa Lakshan",
+      "date": "2024-02-20",
+      "category": "Boot",
+      "likes": 8,
+      "totalUsers": 3200
+    },
+    {
+      "id": 5,
+      "text": "Traveling opens our minds to new experiences and cultures, making us more understanding and empathetic.",
+      "author": "Travel Explorer",
+      "date": "2024-02-20",
+      "category": "Travel",
+      "likes": 12,
+      "totalUsers": 2100
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-02-20T12:00:00Z",
+    "totalParagraphs": 5,
+    "categories": [
+      "Motivate",
+      "Boot",
+      "Sad",
+      "Feeling",
+      "Travel",
+      "Tech"
+    ]
+  }
+}
