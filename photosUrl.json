@@ -1,0 +1,72 @@
+{
+  "albums": {
+    "nature": {
+      "title": "Nature Collection",
+      "coverImage": "https://raw.githubusercontent.com/username/repo/main/images/nature-cover.jpg",
+      "description": "Beautiful landscapes and wildlife photos",
+      "photos": [
+        {
+          "id": "nat001",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/nature/photo1.jpg",
+          "title": "Mountain Sunrise",
+          "description": "Sunrise over the mountains",
+          "timestamp": "2024-02-20"
+        },
+        {
+          "id": "nat002",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/nature/photo2.jpg",
+          "title": "Forest Path",
+          "description": "A serene forest walking path",
+          "timestamp": "2024-02-21"
+        }
+      ]
+    },
+    "urban": {
+      "title": "Urban Landscapes",
+      "coverImage": "https://raw.githubusercontent.com/username/repo/main/images/urban-cover.jpg",
+      "description": "City life and architecture",
+      "photos": [
+        {
+          "id": "urb001",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/urban/photo1.jpg",
+          "title": "City Skyline",
+          "description": "Downtown at sunset",
+          "timestamp": "2024-02-19"
+        },
+        {
+          "id": "urb002",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/urban/photo2.jpg",
+          "title": "Street Art",
+          "description": "Colorful mural in the arts district",
+          "timestamp": "2024-02-22"
+        }
+      ]
+    },
+    "portraits": {
+      "title": "Portrait Gallery",
+      "coverImage": "https://raw.githubusercontent.com/username/repo/main/images/portraits-cover.jpg",
+      "description": "Professional portrait photography",
+      "photos": [
+        {
+          "id": "por001",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/portraits/photo1.jpg",
+          "title": "Summer Portrait",
+          "description": "Natural light portrait in the park",
+          "timestamp": "2024-02-18"
+        },
+        {
+          "id": "por002",
+          "url": "https://raw.githubusercontent.com/username/repo/main/images/portraits/photo2.jpg",
+          "title": "Studio Shot",
+          "description": "Professional studio portrait",
+          "timestamp": "2024-02-23"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2024-02-23T12:00:00Z",
+    "version": "1.0",
+    "totalPhotos": 6
+  }
+}
